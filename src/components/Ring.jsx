@@ -1,5 +1,3 @@
-import React from "react";
-import { useControls } from "leva";
 import { MeshRefractionMaterial, useGLTF } from "@react-three/drei";
 import * as THREE from "three";
 
